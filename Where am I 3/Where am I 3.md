@@ -100,7 +100,7 @@ Scrolling down the map, we find our 2 barriers, and the sign on the road.
 
   
 
-6). The flag is the name of the bridge behind the photographer. 
+7). The flag is the name of the bridge behind the photographer. 
 
 **Flag : N0PS{toyamao-bridge}**
 
